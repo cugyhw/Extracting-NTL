@@ -4,8 +4,8 @@ Extract nighttime light brightness based on geographic coordinates（根据坐�
 Project Information: According to the coordinate position to extract the corresponding position of the night light brightness  
 Advantages of the project: simple code, simple to use, strong applicability  
 Code use prerequisites:  
-1. Prepare your own NTL data, and know the coordinate system of NTL data;  
-2. If your data is not csv (UTF-8) format, you can convert your data to that format, for example: shp data lead to csv format data, and use Notepad software to convert it to csv (UTF-8) format.  
+1.Prepare your own NTL data, and know the coordinate system of NTL data;  
+2.If your data is not csv (UTF-8) format, you can convert your data to that format, for example: shp data lead to csv format data, and use Notepad software to convert it to csv (UTF-8) format.  
   
   
 项目介绍：根据坐标位置提取对应位置的夜间灯光亮度  
